@@ -1,0 +1,12 @@
+table{
+    background: rgb(197, 162, 66);
+    width: 45%;
+    height: 30vh;
+    border-collapse: collapse;
+    border-radius: 5px;
+    margin: 10px;
+}
+th,td{
+    padding-left: 15px;
+    border: 1px solid white;
+}
